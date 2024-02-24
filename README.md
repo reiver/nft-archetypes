@@ -1,1 +1,1 @@
-# nft-archetypes
+# NFT Archetypes
