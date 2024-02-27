@@ -64,8 +64,8 @@ Here are the list of **archetypes** I found that were relevant to NFTs.
   * NFT Acquirers
     * NFT Collector
     * NFT Conformist
-      * NFT Small Community Conformist
       * NFT Culture Conformist
+      * NFT Small Community Conformist
       * NFT I-Am-In-Group Conformist
     * Donor via NFT 
     * NFT Investor
@@ -73,4 +73,6 @@ Here are the list of **archetypes** I found that were relevant to NFTs.
       * NFT For-Fun Investor
       * NFT Sincere Investor
     * NFT Virtual Good Purchaser
- 
+      * NFT Game Player Virtual Good Purchaser
+      * NFT Profile Image Virtual Good Purchaser 
+      * NFT Show-Off-Wall Virtual Good Purchaser
