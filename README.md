@@ -59,14 +59,15 @@ Here are the list of **archetypes** I found that were relevant to NFTs.
 * Image NFTs
   * NFT Creators
     * Aspiring NFT Artist
-    * NFT Opportunists
+    * NFT Conformist Creator
+    * NFT Opportunist Creator
     * Donee via NFT
   * NFT Acquirers
     * NFT Collector
     * NFT Conformist
-      * NFT Culture Conformist
-      * NFT Small Community Conformist
-      * NFT I-Am-In-Group Conformist
+      * NFT Culture Conformist Acquirer
+      * NFT Small Community Conformist Acquirer
+      * NFT I-Am-In-Group Conformist Acquirer
     * Donor via NFT 
     * NFT Investor
       * NFT Get-Rich-Quick Investor
